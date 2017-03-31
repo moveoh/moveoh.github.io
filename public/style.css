@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 30px;
+}
+
+.ptag {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.myimage {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  display: block;
+  margin : auto;
+}
